@@ -1,1 +1,2 @@
 # Discrete-Gaussian-HMM
+This is an mini project I have done as a part of the course Numerical Probability and Machine Learning at Sorbonne Université. In this project, my mission is to implement Expectation Maximization algorithm to estimate the unknown parameters of a discrete Gaussian Hidden Markov Model. To be specific, I use a variation of Baum–Welch algorithm and implement it in Python to estimate the transition matrix and the initial distribution of the hidden chain as well as the means and variances of the Gaussian observations dependent of the hidden states.
